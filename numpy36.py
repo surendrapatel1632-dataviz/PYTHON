@@ -6,5 +6,5 @@ for a in n1:
     print(a)
 for a in n2:
     print(a)
-diffarr=np.setdiff1d(n1,n2)
+diffarr=np.setdiff1d(n2,n1)
 print(diffarr)
